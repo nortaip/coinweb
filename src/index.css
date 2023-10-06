@@ -62,6 +62,7 @@ strong {
   top: 272px;
   width: 424px;
 
+<<<<<<< HEAD
 }
 
 .price-input {
@@ -80,4 +81,6 @@ strong {
   -moz-row-gap: 1rem;
   grid-row-gap: 1rem;
   row-gap: 1rem;
+=======
+>>>>>>> 94c011d000357a2d76a0de831c36e2581d8bf68c
 }
