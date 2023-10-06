@@ -41,6 +41,11 @@ function Banner() {
         </div>
         <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
           <img src={BannerImage} alt="mockup" />
+          <div class="h-14 bg-gradient-to-r from-cyan-500 to-blue-500 absolute lefsfg blur-3xl" onBlur={200} animate-bounce />
+          <div class="h-14 bg-gradient-to-r from-cyan-500 to-blue-500 absolute lefsfg2 blur-3xl" onBlur={200} animate-bounce />
+          <div class="h-14 bg-gradient-to-r from-purple-500 to-pink-500 absolute lefsfg2 blur-3xl" onBlur={200} />
+          <div class="h-14 bg-gradient-to-r from-purple-500 to-pink-500 absolute lefsfg blur-3xl" onBlur={200} />
+          
         </div>
       </div>
     </section>
