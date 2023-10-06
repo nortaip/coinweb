@@ -31,7 +31,7 @@ function App1() {
         </div>
       </section> */}
 
-      <section class="bg-white bg-gray-8000">
+      <section class="bg-white dark:bg-gray-900">
         <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
           <div class="mx-auto max-w-screen-sm text-center">
             <h2 class="mb-4 text-4xl font-extrabold leading-tight text-gray-900 dark:text-white">Start your free trial today</h2>
@@ -41,7 +41,7 @@ function App1() {
         </div>
       </section>
 
-      <footer class="p-4 bg-gray-50 sm:p-6 bg-gray-8000">
+      <footer class="p-4 bg-gray-50 sm:p-6 dark:bg-gray-800">
         <div class="mx-auto max-w-screen-xl">
           <div class="md:flex md:justify-between">
             <div class="mb-6 md:mb-0">

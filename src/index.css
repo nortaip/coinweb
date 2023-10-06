@@ -1,13 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+  color: aliceblue;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+strong {
+  color: var(--neutral-white, #FFF);
+  font-family: Space Grotesk;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.bg-indigos {
+  border-radius: 25px;
+  background: #171821;
+}
+
+.ssd {
+  max-width: 80px;
+}
+
+.bg-gray-8000 {
+  background-color: black;
+}
+
+.btnsd {
+  border-radius: 32px;
+  background: #F60;
+  display: flex;
+  padding: 16px 85px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.Takenomics {
+  color: var(--neutral-grey-5, #E0E0E0);
+  text-align: center;
+  font-family: Rubik;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 150%;
+  /* 54px */
 }
