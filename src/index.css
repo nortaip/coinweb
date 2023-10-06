@@ -50,3 +50,34 @@ strong {
   line-height: 150%;
   /* 54px */
 }
+
+.lefsfg {
+  left: 917px;
+  top: 455px;
+  width: 424px;
+}
+
+.lefsfg2 {
+  left: 1223px;
+  top: 272px;
+  width: 424px;
+
+}
+
+.price-input {
+  background-color: transparent;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  width: 100%
+}
+
+.gap-y-4 {
+  -webkit-row-gap: 1rem;
+  -moz-row-gap: 1rem;
+  grid-row-gap: 1rem;
+  row-gap: 1rem;
+}

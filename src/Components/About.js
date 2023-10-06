@@ -2,7 +2,7 @@ import AboutImage from "../imgs/About.png";
 
 function About() {
     return (
-        <section class="bg-white bg-gray-8000">
+        <section class="bg-white bg-gray-8000" id="About">
             <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
                 <div class="grid grid-cols-2 gap-4 mt-8">
                     <img class="w-full rounded-lg" src={AboutImage} alt="office content 1" />
