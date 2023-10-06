@@ -23,11 +23,6 @@ function Banner() {
           <div class="h-14 bg-gradient-to-r from-cyan-500 to-blue-500 absolute lefsfg2 blur-3xl" onBlur={200} animate-bounce />
           <div class="h-14 bg-gradient-to-r from-purple-500 to-pink-500 absolute lefsfg2 blur-3xl" onBlur={200} />
           <div class="h-14 bg-gradient-to-r from-purple-500 to-pink-500 absolute lefsfg blur-3xl" onBlur={200} />
-<<<<<<< HEAD
-
-=======
-          
->>>>>>> 94c011d000357a2d76a0de831c36e2581d8bf68c
         </div>
 
       </div>
