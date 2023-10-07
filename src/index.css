@@ -61,8 +61,6 @@ strong {
   left: 1223px;
   top: 272px;
   width: 424px;
-
-<<<<<<< HEAD
 }
 
 .price-input {
@@ -81,6 +79,21 @@ strong {
   -moz-row-gap: 1rem;
   grid-row-gap: 1rem;
   row-gap: 1rem;
-=======
->>>>>>> 94c011d000357a2d76a0de831c36e2581d8bf68c
+
+}
+
+@media only screen and (max-width: 600px) {
+  .fhgs {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+  }
+}
+
+.dsfghsd {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

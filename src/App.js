@@ -6,6 +6,7 @@ import Count from './Components/CountNum';
 import About from './Components/About';
 import Aboutbuy from './Components/Buy';
 import Takenomics from './Components/Takenomics';
+import DAcas from './Components/Bannfds';
 
 function App1() {
   return (
@@ -16,6 +17,7 @@ function App1() {
       <About />
       <Aboutbuy />
       <Takenomics />
+      <DAcas />
       {/*    
       <section class="bg-gray-50 dark:bg-gray-900 dark:bg-gray-800">
         <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
