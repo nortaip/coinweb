@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Headers from './Components/Header';
 import Banner from './Components/Banner';
@@ -6,7 +5,7 @@ import Count from './Components/CountNum';
 import About from './Components/About';
 import Aboutbuy from './Components/Buy';
 import Takenomics from './Components/Takenomics';
-import DAcas from './Components/Bannfds';
+import { AccordionCustomAnimation } from './Components/Bannfds';
 
 function App1() {
   return (
@@ -17,8 +16,8 @@ function App1() {
       <About />
       <Aboutbuy />
       <Takenomics />
-      <DAcas />
-      {/*    
+      <AccordionCustomAnimation />
+{/*          
       <section class="bg-gray-50 dark:bg-gray-900 dark:bg-gray-800">
         <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
           <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400">

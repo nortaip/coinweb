@@ -89,6 +89,13 @@ strong {
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: flex-start;
+    gap: 10px;
+    margin: 10px;
+  }
+
+  .vsvcvd {
+    width: 100%;
+
   }
 }
 
@@ -96,4 +103,41 @@ strong {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.vsvcvd {
+  position: relative;
+  top: -132px;
+}
+
+.max-w40 {
+  max-width: 1236px !important;
+}
+
+.dfgfhksdf {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+.dfvsD {
+  background-image: url(./imgs/bg.png);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.ZDv {
+  /* background-color: #E0E0E0; */
+  width: 100%;
+  height: 50%;
+}
+
+.flexasfd {
+  display: flex;
+  justify-content: space-between;
+
 }

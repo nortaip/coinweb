@@ -13,14 +13,14 @@ function Aboutbuy() {
                         <div class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900">
                             <img className="ssd" src={Adimgss} alt="sds" />
                         </div>
-                        <h3 class="mb-2 text-xl font-bold dark:text-white">CoinFlip ATMs</h3>
+                        <h3 class="mb-2 text-xl font-bold dark:text-white mt-4">CoinFlip ATMs</h3>
                         <p class="text-gray-500 dark:text-gray-400 text-center">Make sure you have ETH in your wallet and connect to the site with MetaMask or Trust Wallet. Swap for $EVILPEPE tokens.</p>
                     </div>
                     <div className="bg-indigos py-8 px-4 flex  flex-col items-center max-w-xs">
                         <div class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900">
                             <img className="ssd" src={Adimgss} alt="sds" />
                         </div>
-                        <h3 class="mb-2 text-xl font-bold dark:text-white text-center">CoinFlip ATMs</h3>
+                        <h3 class="mb-2 text-xl font-bold dark:text-white text-center mt-4">CoinFlip ATMs</h3>
                         <p class="text-gray-500 dark:text-gray-400">If you prefer, you can swap USDT for $EVILPEPE. Approve the use of USDT in your wallet and make sure you have ETH</p>
                     </div>
                 </div>
