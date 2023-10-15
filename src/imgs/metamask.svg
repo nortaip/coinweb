@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="16px" color="text"
-    class="sc-8a800401-0 Mvnec" style="cursor: pointer;">
+    className="sc-8a800401-0 Mvnec" style="cursor: pointer;">
     <path d="M36.0112 3.33337L22.1207 13.6277L24.7012 7.56091L36.0112 3.33337Z" fill="#E17726" />
     <path d="M4.00261 3.33337L17.7558 13.7238L15.2989 7.56091L4.00261 3.33337Z" fill="#E27625" />
     <path d="M31.0149 27.2023L27.3227 32.8573L35.2287 35.0397L37.4797 27.3258L31.0149 27.2023Z"
@@ -59,7 +59,7 @@
     <path
         d="M22.1205 21.3276L22.6009 13.2843L24.701 7.56067H15.2988L17.3988 13.2843L17.8792 21.3276L18.0577 23.8531L18.0714 30.0984H21.9283L21.9421 23.8531L22.1205 21.3276Z"
         fill="#F5841F" />
-    <style xmlns="" class="darkreader darkreader--fallback">html, body, body :not(iframe) {
+    <style xmlns="" className="darkreader darkreader--fallback">html, body, body :not(iframe) {
         background-color: #000000 !important;
         border-color: #b4a693 !important;
         color: #ffffff !important;
